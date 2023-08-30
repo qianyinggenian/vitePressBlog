@@ -1,6 +1,6 @@
 export default {
 
-	base: '/yiAnBlog/',// 简单说如下配置就会让你的项目的路径从 `https://domain.com/` 变成 `https://domain.com/base/`
+	base: '/vitePressBlog/',// 简单说如下配置就会让你的项目的路径从 `https://domain.com/` 变成 `https://domain.com/base/`
 	lang: 'en-US', // 页面 HTML 的 lang 属性 `<html lang="en-US">`
 	title: '博客模板',
 	description: '博客模板',
