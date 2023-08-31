@@ -23,20 +23,13 @@ export default {
 		],
 		//   侧边导航
 		sidebar: [
-			{ text: '前端基础', link: '/base/' },
+			{ text: '前言', link: '/base/' },
 			{
-				text: 'Vue', link: '/base/vue/',
+				text: '准备工作', link: '/base/prepare',
 				items: [
 					{
-						text: '导航',
-						link: '/base/vue/index1',
-						items: [
-							{
-								text: '导航一',
-								link: '/base/vue/index2'
-
-							}
-						]
+						text: '创建仓库',
+						link: '/base/createRepository'
 					}
 				]
 			},

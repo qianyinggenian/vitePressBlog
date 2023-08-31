@@ -1,15 +1,15 @@
 ---
 layout: home
 hero:
-  name: 老王技术文档
-  text: 前端学习笔记
+  name: 模板文档
+  text: 模板文档
   actions:
     - theme: brand
       text: 开始使用
       link: /base/
     - theme: alt
       text: 在GitHub上查看
-      link: 'df'
+      link: 'https://github.com/qianyinggenian/vitePressBlog'
   image:
     src: /img/logo.ico
     alt: 网页logo
