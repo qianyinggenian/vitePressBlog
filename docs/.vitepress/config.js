@@ -24,16 +24,11 @@ export default {
 		//   侧边导航
 		sidebar: [
 			{ text: '前言', link: '/base/' },
-			{
-				text: '准备工作', link: '/base/prepare',
-				items: [
-					{
-						text: '创建仓库',
-						link: '/base/createRepository'
-					}
-				]
-			},
-			{ text: 'JavaScript', link: '/base/JavaScript/' }
+			{ text: '准备工作', link: '/base/prepare' },
+      { text: '创建仓库', link: '/base/createRepository' },
+			{ text: '在本地创建项目', link: '/base/mkdir' },
+			{ text: '配置项目', link: '/base/init' },
+			{ text: '自动化部署', link: '/base/actions' }
 		]
 	}
 }
