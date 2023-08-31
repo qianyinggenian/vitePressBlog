@@ -76,3 +76,7 @@ jobs:
         uses: actions/deploy-pages@v2
 
 ```
+### 4、新增 deploy.yml 后， 点击 Commit changes 按钮， 如下图
+![8.png](/img/8.png)
+### 5 执行以上步骤后，等几分钟部署成功后，如图中的红框位置中即可看到链接地址，执行相应操作即可在线预览。
+![9.png](/img/9.png)
