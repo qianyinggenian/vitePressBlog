@@ -28,7 +28,8 @@ export default {
       { text: '创建仓库', link: '/base/createRepository' },
 			{ text: '在本地创建项目', link: '/base/mkdir' },
 			{ text: '配置项目', link: '/base/init' },
-			{ text: '自动化部署', link: '/base/actions' }
+			{ text: '自动化部署', link: '/base/actions' },
+			{ text: '文件目录', link: '/dir/directoryList' }
 		],
     search: {
       provider: 'local'
