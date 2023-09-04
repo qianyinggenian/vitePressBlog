@@ -1,4 +1,4 @@
-### 1、以上的部署都完成后，将代码提交至GitHub。
+### 1、以上的步骤都完成后，将代码提交至GitHub。
 
 ### 2、以上步骤完成后进行自动化部署配置，在要部署的分支中选择 Actions，在展开的页面选择 set up a workflow yourself ，如下图。
 ![5.png](/img/5.png)
