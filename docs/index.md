@@ -15,7 +15,7 @@ hero:
     alt: 网页logo
     
 features:
-  - title: 好玩好玩
+  - title: 好玩
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
   - title: 硬核
     details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
